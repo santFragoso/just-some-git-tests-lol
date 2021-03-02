@@ -4,3 +4,15 @@ body{
     color: deeppink;
     /*COMENTARIO*/
 }
+
+.titulo {
+    font-size: large;
+}
+
+
+.contenido{
+    color: rebeccapurple;
+    font-size: larger;
+}
+
+/*comentario*/
