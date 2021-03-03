@@ -4,3 +4,27 @@ body{
     color: deeppink;
     /*COMENTARIO*/
 }
+
+.titulo {
+    font-size: large;
+}
+
+
+.contenido{
+    color: rebeccapurple;
+    font-size: larger;
+}
+
+.titulo-secundario{
+    background-color: rebeccapurple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-shadow: black;
+}
+
+.parrafo-secundario{
+    background-color: cornflowerblue;
+    color: cornsilk;
+    font-size: 60px;
+}
+
+/*comentario*/
