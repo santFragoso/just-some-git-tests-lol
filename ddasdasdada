@@ -1,0 +1,35 @@
+[33mcommit 56a106a0fb5dd954c8d1c3fef986b2f227c971c9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: santFragoso <fragososantiago34@gmail.com>
+Date:   Tue Mar 2 17:03:58 2021 -0600
+
+    Este es otro mensaje de ejemplo
+
+[33mcommit c72dee86edbea9ca211172daa8f3580a779249b9[m
+Author: santFragoso <fragososantiago34@gmail.com>
+Date:   Fri Feb 26 17:46:40 2021 -0600
+
+    cambios de ejemplo
+
+[33mcommit dc889c8507bf42746232077d3ca1566409cfb51c[m
+Author: santFragoso <fragososantiago34@gmail.com>
+Date:   Fri Feb 26 17:22:21 2021 -0600
+
+    Se agregaron mas detalles
+
+[33mcommit 9504ad4349ba5ade747bf4048dc083b41a4a3c9f[m
+Author: santFragoso <fragososantiago34@gmail.com>
+Date:   Fri Feb 26 17:18:29 2021 -0600
+
+     Please enter the commit message for your changes. Lines starting
+
+[33mcommit 04bbb83ddf0ef1163504838e5b3fff24286f2f98[m
+Author: santFragoso <fragososantiago34@gmail.com>
+Date:   Fri Feb 26 17:11:58 2021 -0600
+
+    Se agreó el archivo de historia.txt
+
+[33mcommit 181f1c7d2a81a6a0077b6e01261b8382c291e4d6[m
+Author: santFragoso <fragososantiago34@gmail.com>
+Date:   Fri Feb 26 17:09:57 2021 -0600
+
+    Archivo de ejemplo para usar git
